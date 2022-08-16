@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Al-Ameen Assessment 2\Methods\Question 10\bin\Debug\net5.0\Question 10.exe
+C:\Users\User\Desktop\Al-Ameen Assessment 2\Methods\Question 10\bin\Debug\net5.0\Question 10.deps.json
+C:\Users\User\Desktop\Al-Ameen Assessment 2\Methods\Question 10\bin\Debug\net5.0\Question 10.runtimeconfig.json
+C:\Users\User\Desktop\Al-Ameen Assessment 2\Methods\Question 10\bin\Debug\net5.0\Question 10.runtimeconfig.dev.json
+C:\Users\User\Desktop\Al-Ameen Assessment 2\Methods\Question 10\bin\Debug\net5.0\Question 10.dll
+C:\Users\User\Desktop\Al-Ameen Assessment 2\Methods\Question 10\bin\Debug\net5.0\ref\Question 10.dll
+C:\Users\User\Desktop\Al-Ameen Assessment 2\Methods\Question 10\bin\Debug\net5.0\Question 10.pdb
+C:\Users\User\Desktop\Al-Ameen Assessment 2\Methods\Question 10\obj\Debug\net5.0\Question 10.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Al-Ameen Assessment 2\Methods\Question 10\obj\Debug\net5.0\Question 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Al-Ameen Assessment 2\Methods\Question 10\obj\Debug\net5.0\Question 10.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Al-Ameen Assessment 2\Methods\Question 10\obj\Debug\net5.0\Question 10.AssemblyInfo.cs
+C:\Users\User\Desktop\Al-Ameen Assessment 2\Methods\Question 10\obj\Debug\net5.0\Question 10.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Al-Ameen Assessment 2\Methods\Question 10\obj\Debug\net5.0\Question 10.dll
+C:\Users\User\Desktop\Al-Ameen Assessment 2\Methods\Question 10\obj\Debug\net5.0\ref\Question 10.dll
+C:\Users\User\Desktop\Al-Ameen Assessment 2\Methods\Question 10\obj\Debug\net5.0\Question 10.pdb
+C:\Users\User\Desktop\Al-Ameen Assessment 2\Methods\Question 10\obj\Debug\net5.0\Question 10.genruntimeconfig.cache
